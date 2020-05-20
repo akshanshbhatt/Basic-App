@@ -1,6 +1,6 @@
-# proj
+# Project
 
-A new Flutter project.
+This is a new Flutter project which I am making. You guys can contribute too
 
 ## Getting Started
 
