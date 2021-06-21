@@ -1,7 +1,3 @@
-# Project
-
-This is a new Flutter project which I am making. You guys can contribute too
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
